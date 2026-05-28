@@ -1,0 +1,12 @@
+{
+  "name": "oneb-dev-plugin",
+  "version": "0.1.0",
+  "description": "Внутрішні скіли команди розробки OneB. Поступово збагачується новими можливостями. Перший скіл — облік технічного боргу.",
+  "author": {
+    "name": "OneB Dev Team"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/oneb-pub/oneb-dev-plugin",
+  "repository": "https://github.com/oneb-pub/oneb-dev-plugin",
+  "keywords": ["oneb", "tech-debt", "internal", "dev"]
+}

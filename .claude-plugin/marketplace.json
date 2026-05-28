@@ -1,0 +1,16 @@
+{
+  "name": "oneb-dev",
+  "description": "Внутрішні плагіни команди розробки OneB.",
+  "owner": {
+    "name": "OneB Dev Team"
+  },
+  "plugins": [
+    {
+      "name": "oneb-dev-plugin",
+      "source": "./",
+      "description": "Скіли команди розробки OneB. Перший скіл — облік технічного боргу (tech-debt).",
+      "category": "internal",
+      "tags": ["oneb", "tech-debt", "dev"]
+    }
+  ]
+}
