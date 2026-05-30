@@ -8,7 +8,7 @@
     {
       "name": "oneb-dev-plugin",
       "source": "./",
-      "description": "Скіли команди розробки OneB. Перший скіл — облік технічного боргу (tech-debt).",
+      "description": "Скіли команди розробки OneB. Сімейство скілів для управління технічним боргом: tech-debt (створення/редагування), tech-debt-close (виконання/видалення), tech-debt-proactive (фонова поведінка).",
       "category": "internal",
       "tags": ["oneb", "tech-debt", "dev"]
     }
