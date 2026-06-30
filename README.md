@@ -106,6 +106,7 @@ tech_debt/
 
 ## Версія
 
+`0.4.1` — `oneb-wiki`: завантаження скріншотів через `create_image_upload` (presigned PUT).
 `0.4.0` — додано скіл `oneb-wiki` (документування user-facing змін у OneB Wiki).
 `0.3.0` — розділення tech-debt на `tech-debt` / `tech-debt-close` / `tech-debt-proactive`.
 
