@@ -8,9 +8,9 @@
     {
       "name": "oneb-dev-plugin",
       "source": "./",
-      "description": "Скіли команди розробки OneB. Сімейство скілів для управління технічним боргом: tech-debt (створення/редагування), tech-debt-close (виконання/видалення), tech-debt-proactive (фонова поведінка).",
+      "description": "Скіли команди розробки OneB. Сімейство скілів для управління технічним боргом: tech-debt (створення/редагування), tech-debt-close (виконання/видалення), tech-debt-proactive (фонова поведінка). Плюс oneb-wiki — документування user-facing змін статтями-довідками в OneB Wiki.",
       "category": "internal",
-      "tags": ["oneb", "tech-debt", "dev"]
+      "tags": ["oneb", "tech-debt", "wiki", "dev"]
     }
   ]
 }
